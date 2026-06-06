@@ -1,0 +1,16 @@
+Skin_100008_toufazhong.png
+size:2048,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+toufa_zhong3
+bounds:2,2,32,106
+rotate:90
+toufayinying_zhong1
+bounds:2,36,162,508
+offsets:0,0,175,508
+rotate:90
+toufayinying_zhong2
+bounds:512,75,123,528
+offsets:0,3,123,531
+rotate:90

@@ -1,0 +1,11 @@
+Skin_080015_toushiqian.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+toushi-qian1
+bounds:97,10,85,75
+offsets:0,1,85,77
+toushi-qian2
+bounds:2,2,93,83
+offsets:16,2,112,111

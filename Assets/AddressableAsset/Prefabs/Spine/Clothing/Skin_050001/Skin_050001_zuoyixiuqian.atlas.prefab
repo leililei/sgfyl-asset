@@ -1,0 +1,35 @@
+Skin_050001_zuoyixiuqian.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+bai yixiuy
+bounds:438,484,229,510
+offsets:0,0,239,510
+guashi 1
+bounds:1175,736,114,138
+guashi 2
+bounds:669,876,118,620
+rotate:90
+guashi 3
+bounds:669,738,136,504
+rotate:90
+guashi 4
+bounds:669,475,350,261
+guashi 5
+bounds:1291,836,158,442
+rotate:90
+guashi0
+bounds:1735,877,37,117
+hua 01
+bounds:2,2,92,98
+offsets:1,0,93,100
+hua 02
+bounds:648,279,189,194
+touming
+bounds:438,246,236,208
+rotate:90
+youjian
+bounds:1021,499,139,237
+youyixiu
+bounds:2,102,434,892

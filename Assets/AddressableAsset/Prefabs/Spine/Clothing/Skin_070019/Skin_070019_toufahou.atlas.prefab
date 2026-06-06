@@ -1,0 +1,16 @@
+Skin_070019_toufahou.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+toufa_hou1
+bounds:265,9,105,110
+rotate:90
+toufa_hou2
+bounds:2,2,112,137
+rotate:90
+toufa_hou3
+bounds:377,17,88,97
+toufa_hou4
+bounds:141,6,108,122
+rotate:90

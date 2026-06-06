@@ -1,0 +1,16 @@
+Skin_100003_yifuhou.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+qunzihou1
+bounds:2,699,1012,1076
+qunzihou2
+bounds:1016,977,316,798
+offsets:0,0,317,799
+qunzihou3
+bounds:2,2,211,713
+rotate:90
+qunzihou4
+bounds:2,215,482,1010
+rotate:90

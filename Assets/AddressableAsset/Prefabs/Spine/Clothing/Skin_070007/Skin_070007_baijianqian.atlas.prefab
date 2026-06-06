@@ -1,0 +1,14 @@
+Skin_070007_baijianqian.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+qianbaijian1
+bounds:1163,401,544,78
+qianbaijian2
+bounds:2,2,367,699
+rotate:90
+qianbaijian3
+bounds:2,371,108,1159
+offsets:81,0,231,1159
+rotate:90

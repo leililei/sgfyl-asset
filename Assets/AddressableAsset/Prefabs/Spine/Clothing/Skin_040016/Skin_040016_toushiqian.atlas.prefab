@@ -1,0 +1,16 @@
+Skin_040016_toushiqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+gf__0
+bounds:2,106,237,147
+offsets:0,1,237,148
+gf__1
+bounds:241,145,210,108
+offsets:2,1,212,110
+gf__2
+bounds:241,112,31,47
+rotate:90
+gf__3
+bounds:2,2,34,102

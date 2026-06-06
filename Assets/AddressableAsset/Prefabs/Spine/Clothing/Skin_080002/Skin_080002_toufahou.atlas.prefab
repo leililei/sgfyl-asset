@@ -1,0 +1,14 @@
+Skin_080002_toufahou.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+faji
+bounds:594,367,194,138
+toufahou1
+bounds:2,2,74,93
+offsets:0,1,74,94
+toufahou2
+bounds:2,97,408,590
+offsets:0,0,408,598
+rotate:90

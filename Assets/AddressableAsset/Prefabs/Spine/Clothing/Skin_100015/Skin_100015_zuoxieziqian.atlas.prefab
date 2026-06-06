@@ -1,0 +1,14 @@
+Skin_100015_zuoxieziqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+tuishi01
+bounds:304,173,28,74
+tuishi02
+bounds:2,2,161,132
+offsets:0,1,162,135
+zuoxie
+bounds:2,136,111,300
+offsets:1,1,113,301
+rotate:90

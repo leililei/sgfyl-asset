@@ -1,0 +1,20 @@
+Skin_050005_toushiqian.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+toushi  you1
+bounds:143,46,110,77
+offsets:0,2,110,79
+toushi  you2
+bounds:255,99,24,149
+rotate:90
+toushi  zuo1
+bounds:255,2,73,91
+rotate:90
+toushi  zuo2
+bounds:255,77,20,147
+rotate:90
+toushi 1
+bounds:2,38,139,85
+offsets:0,0,139,86

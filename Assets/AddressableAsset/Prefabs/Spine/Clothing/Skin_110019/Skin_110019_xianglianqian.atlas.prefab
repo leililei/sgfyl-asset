@@ -1,0 +1,11 @@
+Skin_110019_xianglianqian.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+xianglianqian1
+bounds:2,2,68,100
+offsets:0,1,68,102
+xianglianqian2
+bounds:72,9,93,40
+rotate:90

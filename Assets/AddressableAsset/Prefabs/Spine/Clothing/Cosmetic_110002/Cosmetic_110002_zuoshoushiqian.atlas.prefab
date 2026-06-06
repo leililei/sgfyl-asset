@@ -1,0 +1,15 @@
+Cosmetic_110002_zuoshoushiqian.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoshidiaozhui1
+bounds:2,2,11,63
+offsets:0,0,11,64
+rotate:90
+zuoshidiaozhui2
+bounds:69,48,8,44
+offsets:0,0,8,45
+zuozhuo
+bounds:2,15,65,77
+offsets:0,8,65,85

@@ -1,0 +1,16 @@
+Skin_040004_toufazhong.png
+size:1024,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+bianzi2
+bounds:337,2,77,124
+offsets:0,1,77,125
+rotate:90
+changfa1
+bounds:337,81,43,378
+offsets:0,11,43,389
+rotate:90
+changfa2
+bounds:2,35,89,333
+rotate:90

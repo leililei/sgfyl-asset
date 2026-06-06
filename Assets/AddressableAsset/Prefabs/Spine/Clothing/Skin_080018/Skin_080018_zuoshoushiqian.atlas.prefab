@@ -1,0 +1,12 @@
+Skin_080018_zuoshoushiqian.png
+size:256,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoshoulian-1
+bounds:2,5,36,136
+offsets:2,0,38,136
+rotate:90
+zuoshoulian-2
+bounds:140,2,43,39
+offsets:0,3,44,42

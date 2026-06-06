@@ -1,0 +1,15 @@
+Skin_080014_zuoyixiuhou.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuobanbihou
+bounds:240,2,156,135
+zuoneixiuhou
+bounds:877,260,111,211
+zuoneixiuzhng
+bounds:2,12,125,236
+rotate:90
+zuowaixiuhou
+bounds:2,139,332,873
+rotate:90

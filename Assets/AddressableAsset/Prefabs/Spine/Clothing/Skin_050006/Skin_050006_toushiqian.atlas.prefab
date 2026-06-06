@@ -1,0 +1,13 @@
+Skin_050006_toushiqian.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+toushiqian1
+bounds:2,88,128,138
+toushiqian2
+bounds:132,101,27,125
+offsets:0,9,27,134
+toushiqian3
+bounds:2,2,81,84
+offsets:0,1,82,86

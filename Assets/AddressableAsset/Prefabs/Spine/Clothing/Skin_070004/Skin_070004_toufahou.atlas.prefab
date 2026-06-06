@@ -1,0 +1,13 @@
+Skin_070004_toufahou.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+toufa-hou1
+bounds:2,2,193,227
+toufa-hou2
+bounds:344,95,122,134
+offsets:0,0,126,134
+toufa-hou3
+bounds:197,81,145,148
+offsets:1,0,146,148

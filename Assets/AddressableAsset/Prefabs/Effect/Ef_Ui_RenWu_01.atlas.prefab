@@ -1,0 +1,16 @@
+Ef_Ui_RenWu_01.png
+size:512,256
+filter:Linear,Linear
+pma:true
+UI_btn_renwudi_111
+bounds:2,132,290,82
+offsets:23,22,350,128
+ef_ui_glow_013
+bounds:2,2,128,128
+ef_ui_glow_029
+bounds:132,2,128,128
+ef_ui_glow_13
+bounds:377,155,59,59
+offsets:3,2,64,64
+ef_ui_star_007
+bounds:294,133,81,81

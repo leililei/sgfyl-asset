@@ -1,0 +1,19 @@
+Skin_060009_youshouchiqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+guashi you001
+bounds:189,46,52,217
+rotate:90
+guashi zhong002
+bounds:189,100,79,263
+rotate:90
+guashi zuo003
+bounds:189,2,42,217
+rotate:90
+juanzhou004
+bounds:189,181,319,73
+offsets:1,0,320,73
+juanzhou005
+bounds:2,37,185,217

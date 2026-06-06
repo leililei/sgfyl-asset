@@ -1,0 +1,17 @@
+Cosmetic_080007_zuoyixiuqian.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+zyxqian1
+bounds:130,8,124,115
+zyxqian2
+bounds:256,68,55,134
+rotate:90
+zyxqian3
+bounds:256,31,35,116
+rotate:90
+zyxqian4
+bounds:2,2,121,126
+offsets:0,0,121,157
+rotate:90

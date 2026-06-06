@@ -1,0 +1,11 @@
+Skin_060027_youshoushiqian.png
+size:1024,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+shouzhuo_1
+bounds:484,31,49,51
+offsets:0,1,49,52
+shouzhuo_2
+bounds:2,2,80,480
+rotate:90

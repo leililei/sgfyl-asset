@@ -1,0 +1,15 @@
+Skin_110017_erhuanqian.png
+size:256,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+erhuanqian1
+bounds:87,4,11,59
+rotate:90
+erhuanqian2
+bounds:2,2,55,83
+offsets:0,12,55,105
+rotate:90
+erhuanqian3
+bounds:87,17,40,84
+rotate:90

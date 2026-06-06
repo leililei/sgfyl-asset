@@ -1,0 +1,11 @@
+Skin_060014_zuoshoushihou.png
+size:128,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoshoushi-hou1
+bounds:2,2,60,52
+offsets:0,1,60,53
+zuoshoushi-hou2
+bounds:64,4,58,50
+offsets:0,1,58,51

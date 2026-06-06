@@ -1,0 +1,17 @@
+Cosmetic_080007_toufahou.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+tfhou1
+bounds:2,59,146,181
+offsets:1,0,147,182
+tfhou2
+bounds:150,81,140,159
+offsets:1,0,141,160
+tfhou3
+bounds:292,98,35,142
+offsets:0,0,40,142
+tfhou4
+bounds:2,2,55,135
+rotate:90

@@ -1,0 +1,17 @@
+Skin_040004_youyixiuhou.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+youxiu1hou
+bounds:404,13,68,205
+youxiu2hou
+bounds:148,147,71,254
+rotate:90
+youxiu3hou
+bounds:148,2,143,166
+offsets:0,14,143,180
+rotate:90
+youxiu4hou
+bounds:2,35,144,183
+offsets:0,0,184,183

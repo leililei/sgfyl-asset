@@ -1,0 +1,14 @@
+Cosmetic_100014_toushizhong.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+tszhong1
+bounds:129,33,111,56
+offsets:0,0,112,57
+tszhong2
+bounds:242,8,86,81
+offsets:1,1,87,83
+tszhong3
+bounds:2,2,125,87
+offsets:0,1,126,89

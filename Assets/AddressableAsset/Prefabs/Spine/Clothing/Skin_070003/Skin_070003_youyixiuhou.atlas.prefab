@@ -1,0 +1,17 @@
+Skin_070003_youyixiuhou.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+beishi1
+bounds:2,2,142,159
+rotate:90
+beishi2
+bounds:2,146,359,524
+offsets:0,0,398,524
+rotate:90
+youxiuzi-hou1
+bounds:528,268,51,46
+offsets:0,0,51,47
+youxiuzi-hou2
+bounds:528,316,209,189

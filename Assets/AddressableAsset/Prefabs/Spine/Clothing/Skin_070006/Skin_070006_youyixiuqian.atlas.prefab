@@ -1,0 +1,16 @@
+Skin_070006_youyixiuqian.png
+size:2048,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+xiuziqian01
+bounds:636,2,205,327
+offsets:21,2,226,340
+rotate:90
+xiuzizhong03
+bounds:2,11,196,632
+offsets:31,34,235,681
+rotate:90
+yinying02
+bounds:965,43,97,164
+offsets:0,23,102,187

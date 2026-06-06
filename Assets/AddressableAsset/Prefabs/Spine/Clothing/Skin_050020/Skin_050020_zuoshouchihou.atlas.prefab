@@ -1,0 +1,17 @@
+Skin_050020_zuoshouchihou.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+shouchi3
+bounds:602,98,158,623
+rotate:90
+shouchi4
+bounds:1227,159,97,630
+rotate:90
+shouchi5
+bounds:2,2,254,598
+rotate:90
+shouchi6
+bounds:602,6,90,631
+rotate:90

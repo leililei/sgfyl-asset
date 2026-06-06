@@ -1,0 +1,14 @@
+Skin_060024_zuoyixiuqian.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoxiuqiantouying
+bounds:599,395,101,113
+zuoyixiu_qian
+bounds:2,2,162,248
+offsets:1,0,163,248
+rotate:90
+zuoyixiu_zhong
+bounds:2,166,342,595
+rotate:90

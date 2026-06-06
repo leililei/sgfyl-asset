@@ -1,0 +1,15 @@
+Skin_080008_baijianqian.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+baijianqian1
+bounds:2,2,400,663
+rotate:90
+baijianqian2
+bounds:667,245,201,720
+baijianqian3
+bounds:870,245,720,148
+rotate:90
+baijianqian4
+bounds:2,404,629,561

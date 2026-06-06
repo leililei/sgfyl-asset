@@ -1,0 +1,17 @@
+Skin_040009_toufaqian.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+tfqian3
+bounds:2,56,234,192
+offsets:2,4,236,196
+toufaqian1
+bounds:2,2,96,52
+toufaqian2
+bounds:100,5,49,62
+offsets:0,6,49,68
+rotate:90
+toufaqian4
+bounds:164,22,32,57
+rotate:90

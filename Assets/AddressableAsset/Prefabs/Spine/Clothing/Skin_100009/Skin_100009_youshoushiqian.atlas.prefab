@@ -1,0 +1,15 @@
+Skin_100009_youshoushiqian.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+yssqian1
+bounds:2,2,100,299
+rotate:90
+yssqian2
+bounds:303,5,61,27
+offsets:2,1,66,29
+yssqian333
+bounds:303,34,68,133
+offsets:0,4,68,137
+rotate:90

@@ -1,0 +1,14 @@
+Skin_100002_youshoushiqian.png
+size:256,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+youshoushihou
+bounds:114,32,24,23
+offsets:0,2,24,28
+youshoushiqian
+bounds:2,2,61,53
+offsets:0,1,62,54
+youshoushizhong
+bounds:65,16,47,39
+offsets:0,0,47,40

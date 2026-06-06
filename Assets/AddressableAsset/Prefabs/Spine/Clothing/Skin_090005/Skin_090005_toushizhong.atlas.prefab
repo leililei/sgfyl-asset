@@ -1,0 +1,14 @@
+Skin_090005_toushizhong.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+toushizhong1
+bounds:2,2,235,613
+rotate:90
+toushizhong2
+bounds:617,80,56,84
+offsets:2,0,60,84
+toushizhong3
+bounds:617,166,82,71
+offsets:0,3,82,74

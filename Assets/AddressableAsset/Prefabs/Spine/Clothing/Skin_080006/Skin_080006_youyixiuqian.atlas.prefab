@@ -1,0 +1,17 @@
+Skin_080006_youyixiuqian.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+xiubai_shang_qian
+bounds:2,2,157,360
+offsets:0,0,171,360
+rotate:90
+xiubai_xia_qian1
+bounds:529,232,265,418
+offsets:0,0,268,418
+rotate:90
+xiubai_xia_qian2
+bounds:2,161,336,525
+offsets:0,0,337,525
+rotate:90

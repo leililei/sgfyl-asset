@@ -1,0 +1,13 @@
+Skin_080009_toufahou.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+tfhou1
+bounds:776,888,142,96
+offsets:1,1,143,98
+tfhou2
+bounds:920,905,102,79
+offsets:0,0,103,79
+tfhou3
+bounds:2,2,772,982

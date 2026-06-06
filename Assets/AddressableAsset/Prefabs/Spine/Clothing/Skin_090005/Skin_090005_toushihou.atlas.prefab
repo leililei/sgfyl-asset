@@ -1,0 +1,17 @@
+Skin_090005_toushihou.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+toushihou1
+bounds:2,2,69,125
+rotate:90
+toushihou2
+bounds:261,73,12,168
+rotate:90
+toushihou3
+bounds:261,73,12,168
+rotate:90
+toushihou4
+bounds:2,73,12,257
+rotate:90

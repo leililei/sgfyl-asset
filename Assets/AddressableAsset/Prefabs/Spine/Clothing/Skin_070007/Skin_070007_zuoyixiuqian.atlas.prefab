@@ -1,0 +1,16 @@
+Skin_070007_zuoyixiuqian.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+weibo1
+bounds:1670,256,195,184
+zuoyixiu_qian
+bounds:1024,13,170,262
+rotate:90
+zuoyixiu_zhong1
+bounds:2,2,438,1020
+rotate:90
+zuoyixiu_zhong2
+bounds:1024,185,255,644
+rotate:90

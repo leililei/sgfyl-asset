@@ -1,0 +1,17 @@
+Skin_060002_zuoshouchiqian.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoshouchi1
+bounds:260,120,227,364
+rotate:90
+zuoshouchi2
+bounds:626,131,216,348
+rotate:90
+zuoshouchi3
+bounds:2,2,256,345
+offsets:1,1,258,346
+zuoshouchi4
+bounds:260,67,51,279
+rotate:90

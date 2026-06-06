@@ -1,0 +1,11 @@
+Skin_070020_xianglianqian.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+xianglian00
+bounds:2,2,114,83
+offsets:1,0,115,83
+xianglian1
+bounds:118,2,114,83
+offsets:7,2,121,85

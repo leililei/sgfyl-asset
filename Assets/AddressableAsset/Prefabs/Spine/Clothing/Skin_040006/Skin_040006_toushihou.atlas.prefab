@@ -1,0 +1,11 @@
+Skin_040006_toushihou.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+youbuyaohou
+bounds:2,49,51,181
+rotate:90
+youfashihou
+bounds:185,2,98,127
+rotate:90

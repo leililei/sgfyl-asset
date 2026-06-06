@@ -1,0 +1,11 @@
+zr_060021_yanbai.png
+size:128,32
+filter:Linear,Linear
+pma:true
+scale:0.5
+zr_yanbai_l
+bounds:2,2,42,28
+offsets:6,7,63,43
+zr_yanbai_r
+bounds:46,7,35,23
+offsets:14,9,55,41

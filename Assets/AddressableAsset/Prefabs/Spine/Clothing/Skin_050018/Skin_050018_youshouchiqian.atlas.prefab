@@ -1,0 +1,10 @@
+Skin_050018_youshouchiqian.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+shouchi1
+bounds:2,2,28,83
+shouchi2
+bounds:2,87,404,555
+rotate:90

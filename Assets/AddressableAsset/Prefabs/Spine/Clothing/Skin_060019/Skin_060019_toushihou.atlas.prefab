@@ -1,0 +1,17 @@
+Skin_060019_toushihou.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+tshou1
+bounds:161,48,78,94
+rotate:90
+tshou2
+bounds:2,2,35,99
+rotate:90
+tshou3
+bounds:257,75,54,51
+offsets:0,0,58,51
+tshou4
+bounds:2,39,87,157
+rotate:90

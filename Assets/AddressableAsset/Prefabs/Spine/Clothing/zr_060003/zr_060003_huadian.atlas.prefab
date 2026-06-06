@@ -1,0 +1,11 @@
+zr_060003_huadian.png
+size:256,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+huadian1
+bounds:2,2,127,58
+offsets:1,0,129,58
+huadian2
+bounds:131,28,27,32
+offsets:0,1,27,33

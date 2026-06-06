@@ -1,0 +1,15 @@
+Skin_080006_toushiqian.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+toushi
+bounds:2,50,422,303
+offsets:1,6,424,309
+toushi_tiaozhui1
+bounds:426,121,46,232
+offsets:1,7,48,239
+toushi_tiaozhui2
+bounds:2,2,46,233
+offsets:1,6,48,239
+rotate:90

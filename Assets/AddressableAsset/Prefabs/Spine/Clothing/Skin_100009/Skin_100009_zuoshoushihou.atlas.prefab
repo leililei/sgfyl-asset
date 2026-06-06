@@ -1,0 +1,11 @@
+Skin_100009_zuoshoushihou.png
+size:256,32
+filter:Linear,Linear
+pma:true
+scale:0.5
+zsshou1
+bounds:91,2,44,25
+offsets:1,0,45,26
+zsshou2
+bounds:2,14,13,87
+rotate:90

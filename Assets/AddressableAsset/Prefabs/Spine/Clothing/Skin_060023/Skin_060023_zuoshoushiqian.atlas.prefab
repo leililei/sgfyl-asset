@@ -1,0 +1,10 @@
+Skin_060023_zuoshoushiqian.png
+size:512,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoshouzhuo1
+bounds:280,2,64,58
+zuoshouzhuo2
+bounds:2,7,53,276
+rotate:90

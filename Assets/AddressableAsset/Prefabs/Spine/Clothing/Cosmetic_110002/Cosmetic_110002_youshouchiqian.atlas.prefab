@@ -1,0 +1,35 @@
+Cosmetic_110002_youshouchiqian.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+fenghuanglizi
+bounds:574,125,562,384
+offsets:2,3,568,392
+guang
+bounds:1389,128,291,381
+guang 1
+bounds:356,101,408,216
+offsets:0,31,408,247
+rotate:90
+guang 2
+bounds:1138,2,140,123
+guang 3
+bounds:1138,127,382,249
+offsets:36,2,420,284
+rotate:90
+guang 4
+bounds:190,17,492,164
+offsets:3,79,498,287
+rotate:90
+guang 5
+bounds:2,9,500,186
+offsets:0,47,500,233
+rotate:90
+guang 6
+bounds:1682,254,255,354
+offsets:16,0,271,354
+rotate:90
+guang 7
+bounds:574,12,111,211
+rotate:90

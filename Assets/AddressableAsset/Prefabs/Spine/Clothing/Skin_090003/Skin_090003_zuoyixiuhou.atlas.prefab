@@ -1,0 +1,13 @@
+Skin_090003_zuoyixiuhou.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+zyxhou1
+bounds:270,45,265,197
+zyxhou2
+bounds:537,55,187,209
+offsets:0,0,187,224
+rotate:90
+zyxhou3
+bounds:2,2,266,240

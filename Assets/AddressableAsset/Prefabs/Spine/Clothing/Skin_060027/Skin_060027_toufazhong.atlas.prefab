@@ -1,0 +1,15 @@
+Skin_060027_toufazhong.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+toufa_hou
+bounds:458,12,197,174
+offsets:1,0,199,174
+toufa_qianr
+bounds:2,119,67,454
+rotate:90
+toufa_qianz
+bounds:2,2,115,391
+offsets:2,0,123,391
+rotate:90

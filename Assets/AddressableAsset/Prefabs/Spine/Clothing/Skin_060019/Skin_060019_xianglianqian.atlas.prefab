@@ -1,0 +1,17 @@
+Skin_060019_xianglianqian.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+xianglianqian1
+bounds:149,40,113,85
+xianglianqian2
+bounds:264,56,126,69
+offsets:0,4,126,73
+xianglianqian3
+bounds:264,2,67,52
+xianglianqian4
+bounds:392,47,100,78
+xianglianqian5
+bounds:2,18,145,107
+offsets:0,4,147,117

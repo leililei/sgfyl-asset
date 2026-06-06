@@ -1,0 +1,12 @@
+Skin_090001_toushiqian.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+toushi1
+bounds:2,200,471,301
+toushi2
+bounds:2,2,89,196
+toushi3
+bounds:93,12,77,186
+offsets:0,1,77,187

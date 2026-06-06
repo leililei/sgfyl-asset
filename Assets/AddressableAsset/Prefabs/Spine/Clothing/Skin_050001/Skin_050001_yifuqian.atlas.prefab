@@ -1,0 +1,79 @@
+Skin_050001_yifuqian.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+guashi  3 touying003
+bounds:897,694,93,353
+rotate:90
+guashi  touying00
+bounds:2,2,65,117
+rotate:90
+guashi 00
+bounds:121,2,65,117
+rotate:90
+guashi 1 touying001
+bounds:520,6,26,93
+offsets:1,1,28,94
+rotate:90
+guashi you
+bounds:176,698,235,1348
+guashi zuo
+bounds:2,680,172,1366
+guashi001
+bounds:424,4,28,94
+rotate:90
+guashi002
+bounds:240,8,59,90
+offsets:0,0,59,93
+rotate:90
+guashi003
+bounds:1252,707,93,353
+rotate:90
+guashi2 touying002
+bounds:332,8,59,90
+offsets:0,0,59,93
+rotate:90
+qun di1
+bounds:1607,92,219,736
+qun di2
+bounds:1731,1333,713,310
+rotate:90
+qun you
+bounds:1391,830,338,1216
+qun zhong
+bounds:897,789,237,1257
+qun zuo
+bounds:1136,802,253,1244
+shangyi
+bounds:1731,1039,304,292
+offsets:0,18,304,310
+yaidai
+bounds:1354,3,209,87
+offsets:0,2,209,89
+yaoshi 1
+bounds:1354,550,155,220
+rotate:90
+yaoshi 2
+bounds:1859,912,178,125
+offsets:0,1,178,126
+yaoshi 2 touying
+bounds:1731,859,178,126
+rotate:90
+you
+bounds:608,34,33,182
+rotate:90
+you qun
+bounds:2,69,609,1350
+rotate:90
+you touying
+bounds:424,34,33,182
+rotate:90
+zuo
+bounds:792,3,31,182
+rotate:90
+zuo qun
+bounds:413,706,482,1340
+zuo touying
+bounds:792,36,31,182
+rotate:90

@@ -1,0 +1,11 @@
+Skin_070003_zuoxieziqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoxiezi-qian1
+bounds:286,9,136,126
+zuoxiezi-qian2
+bounds:2,2,133,282
+offsets:1,1,135,285
+rotate:90

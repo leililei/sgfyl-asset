@@ -1,0 +1,22 @@
+Skin_060009_youyixiuqian.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+guashi 1
+bounds:1459,825,41,116
+guashi 2
+bounds:1273,525,38,180
+piao dai xia02
+bounds:837,333,91,160
+piaodai shang00
+bounds:1273,707,184,234
+offsets:0,38,184,272
+yixiu 01
+bounds:2,495,446,1269
+rotate:90
+yixiu 02
+bounds:2,155,338,833
+rotate:90
+zuojian
+bounds:2,2,125,151

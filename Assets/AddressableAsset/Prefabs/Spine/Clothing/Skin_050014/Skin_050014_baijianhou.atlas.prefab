@@ -1,0 +1,15 @@
+Skin_050014_baijianhou.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+beishi001
+bounds:1580,58,156,128
+rotate:90
+beishi002
+bounds:1710,221,128,270
+beishi003
+bounds:1580,216,128,275
+beishi1
+bounds:2,2,489,1576
+rotate:90

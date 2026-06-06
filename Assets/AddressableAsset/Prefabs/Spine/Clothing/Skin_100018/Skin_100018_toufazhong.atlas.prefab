@@ -1,0 +1,11 @@
+Skin_100018_toufazhong.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+toufazhong1
+bounds:2,2,103,563
+rotate:90
+toufazhong2
+bounds:2,107,155,531
+rotate:90

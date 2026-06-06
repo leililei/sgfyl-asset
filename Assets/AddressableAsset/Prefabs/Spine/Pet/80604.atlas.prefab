@@ -1,0 +1,17 @@
+80604.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.2
+he_0
+bounds:170,88,164,156
+he_1
+bounds:336,100,99,144
+he_2
+bounds:170,4,82,91
+rotate:90
+he_3
+bounds:2,43,166,201
+he_4
+bounds:2,2,39,147
+rotate:90

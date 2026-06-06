@@ -1,0 +1,15 @@
+Skin_040009_zuoyixiuqian.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoyixiuqian1
+bounds:2,2,185,486
+rotate:90
+zuoyixiuqian3
+bounds:490,27,160,459
+rotate:90
+zyxqian2
+bounds:2,189,221,795
+offsets:3,0,224,795
+rotate:90

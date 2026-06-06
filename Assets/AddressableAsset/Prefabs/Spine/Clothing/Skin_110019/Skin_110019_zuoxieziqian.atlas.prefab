@@ -1,0 +1,11 @@
+Skin_110019_zuoxieziqian.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoxie1
+bounds:2,2,66,134
+rotate:90
+zuoxie2
+bounds:2,70,154,654
+rotate:90

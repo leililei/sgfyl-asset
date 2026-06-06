@@ -1,0 +1,11 @@
+Skin_060025_toushihou.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+fashihou1
+bounds:371,2,79,100
+rotate:90
+fashihou2
+bounds:2,6,75,367
+rotate:90

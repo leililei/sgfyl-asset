@@ -1,0 +1,12 @@
+Skin_090004_youxieziqian.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+youxie1
+bounds:206,18,66,108
+offsets:0,0,69,109
+youxie2
+bounds:2,2,124,202
+offsets:18,4,157,269
+rotate:90

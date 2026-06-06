@@ -1,0 +1,14 @@
+Skin_100014_beishihou.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+beishihou1
+bounds:723,2,538,589
+offsets:1,0,539,589
+rotate:90
+beishihou2
+bounds:723,542,248,1009
+rotate:90
+beishihou3
+bounds:2,49,719,741

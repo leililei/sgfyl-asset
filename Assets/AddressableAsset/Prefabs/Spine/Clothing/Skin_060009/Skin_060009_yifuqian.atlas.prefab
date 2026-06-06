@@ -1,0 +1,78 @@
+Skin_060009_yifuqian.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+guahsi touying0
+bounds:296,132,93,581
+rotate:90
+guashi 0
+bounds:240,885,186,1161
+guashi you
+bounds:240,835,56,48
+guashi you touying0
+bounds:2,2,51,333
+rotate:90
+guashi you0
+bounds:1985,1715,47,331
+offsets:4,1,51,333
+guashi zhong
+bounds:1649,916,37,220
+guashi zhong touying
+bounds:1462,759,152,176
+rotate:90
+guashi zhong0
+bounds:1027,869,21,62
+guashi zhong1
+bounds:879,193,8,32
+guashi zhong2
+bounds:879,193,8,32
+guashi zhong3
+bounds:879,193,8,32
+guashi zhong4
+bounds:879,193,8,32
+guashi zuo
+bounds:1884,1404,99,642
+offsets:0,0,103,642
+guashi zuo touying
+bounds:196,128,98,642
+offsets:0,0,103,642
+guashi zuo0
+bounds:196,75,41,51
+hong qun
+bounds:428,933,414,633
+offsets:1,0,415,633
+rotate:90
+xiabai
+bounds:2,772,236,1274
+xiabai 2
+bounds:2,55,192,715
+xiabai touying
+bounds:1764,1409,118,637
+yao
+bounds:894,366,211,109
+rotate:90
+yifu
+bounds:1462,1138,296,304
+youqun hei
+bounds:1356,1444,406,602
+offsets:0,0,407,602
+youqun hei touying
+bounds:1063,738,397,609
+offsets:9,0,406,618
+youqun huang
+bounds:428,1349,500,697
+offsets:0,3,500,700
+zhuzi
+bounds:1462,913,185,223
+zhuzi touying
+bounds:1027,551,185,394
+rotate:90
+zuoqun hei touying02
+bounds:296,227,350,596
+rotate:90
+zuoqun hei01
+bounds:428,579,352,597
+rotate:90
+zuoqun huang03
+bounds:930,1349,424,697

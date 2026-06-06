@@ -1,0 +1,16 @@
+Skin_070013_xianglianqian.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+xlqian1
+bounds:192,12,49,53
+offsets:0,0,50,53
+xlqian2
+bounds:490,78,20,48
+xlqian3
+bounds:383,54,105,72
+xlqian4
+bounds:192,67,189,59
+xlqian4yy
+bounds:2,2,188,124

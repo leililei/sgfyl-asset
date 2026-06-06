@@ -1,0 +1,17 @@
+Skin_050023_erhuanqian.png
+size:128,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+erhuan-qian1
+bounds:2,2,38,42
+offsets:1,0,40,44
+erhuan-qian2
+bounds:42,21,10,40
+rotate:90
+erhuan-qian3
+bounds:42,9,10,40
+rotate:90
+erhuan-qian4
+bounds:42,33,11,47
+rotate:90

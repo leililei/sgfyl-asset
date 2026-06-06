@@ -1,0 +1,15 @@
+Skin_110002_zuoyixiuhou.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+hongxiuzuohou
+bounds:2,2,222,73
+juxiuhou
+bounds:2,77,212,408
+zuohuangxiuhou
+bounds:226,13,148,223
+rotate:90
+zuoxiuyuhou
+bounds:216,163,322,259
+rotate:90

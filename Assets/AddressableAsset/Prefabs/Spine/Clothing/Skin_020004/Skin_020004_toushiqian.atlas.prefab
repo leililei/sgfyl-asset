@@ -1,0 +1,10 @@
+Skin_020004_toushiqian.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+fashi_qian1
+bounds:2,2,101,92
+fashi_qian2
+bounds:105,37,57,97
+rotate:90

@@ -1,0 +1,15 @@
+Skin_060003_toufaqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+toufaqian0
+bounds:264,27,74,85
+toufaqian1
+bounds:2,2,237,260
+rotate:90
+toufayinying
+bounds:264,114,188,125
+toufazhong
+bounds:454,208,31,56
+rotate:90

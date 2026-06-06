@@ -1,0 +1,16 @@
+Skin_080019_toushiqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+fashi-qian01
+bounds:210,103,172,102
+fashi-qian1
+bounds:2,47,206,158
+fashi-qian2
+bounds:210,73,28,129
+rotate:90
+fashi-qian3
+bounds:2,2,43,134
+offsets:1,0,44,137
+rotate:90

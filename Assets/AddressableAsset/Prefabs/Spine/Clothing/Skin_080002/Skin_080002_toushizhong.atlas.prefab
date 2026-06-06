@@ -1,0 +1,15 @@
+Skin_080002_toushizhong.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+youfashiqian1
+bounds:2,2,116,130
+offsets:0,0,117,130
+rotate:90
+youfashiqian2
+bounds:134,92,26,196
+rotate:90
+youfashiqian3
+bounds:134,56,34,116
+rotate:90

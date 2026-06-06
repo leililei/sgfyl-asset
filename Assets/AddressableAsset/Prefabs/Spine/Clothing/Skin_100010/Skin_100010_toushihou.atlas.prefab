@@ -1,0 +1,10 @@
+Skin_100010_toushihou.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+tshou1
+bounds:562,2,315,503
+tshou2
+bounds:2,215,290,558
+rotate:90

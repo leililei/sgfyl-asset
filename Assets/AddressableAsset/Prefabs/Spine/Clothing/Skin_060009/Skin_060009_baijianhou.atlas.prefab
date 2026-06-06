@@ -1,0 +1,30 @@
+Skin_060009_baijianhou.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+you guashi
+bounds:1086,1304,39,342
+rotate:90
+zuo guashi
+bounds:1086,1304,39,342
+rotate:90
+you guashi touying
+bounds:2,2,39,342
+you yanwu 1
+bounds:516,695,539,392
+offsets:0,0,539,476
+you yanwu 2
+bounds:1086,1345,467,699
+offsets:0,111,667,810
+zuo guashi touying
+bounds:516,351,38,342
+zuo yanwu 1
+bounds:1555,1505,539,383
+offsets:0,0,539,476
+rotate:90
+zuo yanwu 2
+bounds:2,346,512,741
+offsets:154,69,666,810
+zuoyi
+bounds:2,1089,1082,955

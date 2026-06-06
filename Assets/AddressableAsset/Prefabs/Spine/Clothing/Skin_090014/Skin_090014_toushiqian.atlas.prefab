@@ -1,0 +1,12 @@
+Skin_090014_toushiqian.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+toushi-qian1
+bounds:2,85,251,150
+toushi-qian2
+bounds:2,2,43,60
+toushi-qian3
+bounds:2,64,19,112
+rotate:90

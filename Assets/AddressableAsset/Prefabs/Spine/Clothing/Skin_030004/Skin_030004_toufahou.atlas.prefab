@@ -1,0 +1,13 @@
+Skin_030004_toufahou.png
+size:2048,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+bianzi
+bounds:2,2,200,1086
+rotate:90
+toufa2
+bounds:1090,48,116,154
+offsets:0,0,116,169
+toufahou
+bounds:1208,112,53,90

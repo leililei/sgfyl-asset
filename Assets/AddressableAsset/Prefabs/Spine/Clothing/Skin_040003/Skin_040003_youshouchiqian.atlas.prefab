@@ -1,0 +1,16 @@
+Skin_040003_youshouchiqian.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+youshouchi1
+bounds:440,103,380,95
+offsets:1,0,464,96
+youshouchi2
+bounds:2,2,196,436
+offsets:0,124,196,560
+rotate:90
+youshouchi3
+bounds:440,44,57,255
+offsets:0,0,69,255
+rotate:90

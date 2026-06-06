@@ -1,0 +1,15 @@
+Skin_130002_youyixiuhou.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+youxiuzi-hou1
+bounds:1096,222,182,607
+rotate:90
+youxiuzi-hou2
+bounds:2,2,402,1092
+offsets:11,9,413,1101
+rotate:90
+youxiuzi-hou3
+bounds:1096,32,188,264
+rotate:90

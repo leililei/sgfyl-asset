@@ -1,0 +1,13 @@
+Skin_070017_zuoxieziqian.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoxiezi-qian
+bounds:2,2,116,312
+offsets:0,0,134,312
+rotate:90
+zuoxiezi-qian-hua
+bounds:316,45,55,73
+zuoxiezi-qian-ye
+bounds:316,11,43,32

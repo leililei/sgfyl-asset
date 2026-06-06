@@ -1,0 +1,16 @@
+Skin_080004_toufaqian.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+tfqian1
+bounds:417,113,95,182
+rotate:90
+tfqian2
+bounds:258,45,157,163
+tfqian3
+bounds:2,2,254,206
+offsets:11,19,284,250
+tfqian3yy
+bounds:601,137,141,71
+offsets:1,2,145,75

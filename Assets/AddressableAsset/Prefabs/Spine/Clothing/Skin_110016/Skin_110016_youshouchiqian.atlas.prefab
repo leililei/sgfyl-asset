@@ -1,0 +1,14 @@
+Skin_110016_youshouchiqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+ysc1
+bounds:2,2,80,246
+rotate:90
+ysc2
+bounds:340,142,85,164
+rotate:90
+ysc3
+bounds:2,84,143,336
+rotate:90

@@ -1,0 +1,17 @@
+Skin_050021_yifuhou.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+piaodaiyouhou
+bounds:1203,671,179,84
+piaodaizuohou
+bounds:2,2,205,76
+pijianlesizuohou
+bounds:1703,881,145,61
+offsets:0,0,145,93
+pijianxiacenghou
+bounds:1203,757,498,185
+qunhou
+bounds:2,80,862,1199
+rotate:90

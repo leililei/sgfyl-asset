@@ -1,0 +1,14 @@
+Skin_050023_zuoshoushihou.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+zsshou1
+bounds:530,158,74,288
+rotate:90
+zsshou2
+bounds:2,2,230,526
+rotate:90
+zsshou3
+bounds:530,130,26,251
+rotate:90

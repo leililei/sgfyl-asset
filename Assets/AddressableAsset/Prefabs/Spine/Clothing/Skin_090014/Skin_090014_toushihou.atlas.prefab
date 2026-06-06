@@ -1,0 +1,12 @@
+Skin_090014_toushihou.png
+size:128,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+toushi-qian4
+bounds:2,2,29,60
+offsets:1,0,30,60
+rotate:90
+toushi-zhong
+bounds:2,33,17,111
+rotate:90

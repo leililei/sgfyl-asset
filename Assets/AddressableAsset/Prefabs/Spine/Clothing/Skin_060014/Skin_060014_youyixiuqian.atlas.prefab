@@ -1,0 +1,25 @@
+Skin_060014_youyixiuqian.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+yinying 03
+bounds:894,219,52,96
+offsets:0,1,52,97
+yinying 05
+bounds:408,55,44,104
+rotate:90
+youxiuzi-qian2
+bounds:894,317,102,152
+offsets:4,0,106,152
+youxiuzi-qian3
+bounds:408,101,62,188
+offsets:10,17,79,205
+rotate:90
+youxiuzi-qian4
+bounds:2,165,304,890
+offsets:0,0,365,890
+rotate:90
+youxiuzi-qian5
+bounds:2,2,161,404
+rotate:90

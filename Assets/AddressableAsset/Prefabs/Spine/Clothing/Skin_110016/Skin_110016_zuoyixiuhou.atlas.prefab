@@ -1,0 +1,12 @@
+Skin_110016_zuoyixiuhou.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+zyxhou1
+bounds:2,2,188,447
+offsets:15,0,203,447
+rotate:90
+zyxhou2
+bounds:2,192,266,524
+rotate:90

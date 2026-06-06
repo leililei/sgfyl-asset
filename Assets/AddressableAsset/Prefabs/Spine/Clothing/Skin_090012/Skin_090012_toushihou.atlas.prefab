@@ -1,0 +1,13 @@
+Skin_090012_toushihou.png
+size:256,32
+filter:Linear,Linear
+pma:true
+scale:0.5
+fashi-zhong1
+bounds:2,2,22,89
+offsets:0,2,22,91
+rotate:90
+fashi-zhong2
+bounds:93,2,22,41
+offsets:0,1,22,43
+rotate:90

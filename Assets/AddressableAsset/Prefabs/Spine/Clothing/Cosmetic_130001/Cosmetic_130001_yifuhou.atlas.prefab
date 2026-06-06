@@ -1,0 +1,15 @@
+Cosmetic_130001_yifuhou.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+qunhou2
+bounds:638,26,408,633
+rotate:90
+qunhou3
+bounds:2,26,408,634
+rotate:90
+zyxhou3
+bounds:2,2,22,105
+offsets:0,1,23,107
+rotate:90

@@ -1,0 +1,15 @@
+Cosmetic_130002_zuoyixiuhou.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoxiuzi-hou1
+bounds:1059,8,186,266
+offsets:3,0,189,266
+zuoxiuzi-hou2
+bounds:1059,276,222,622
+rotate:90
+zuoxiuzi-hou3
+bounds:2,2,496,1055
+offsets:10,0,512,1055
+rotate:90

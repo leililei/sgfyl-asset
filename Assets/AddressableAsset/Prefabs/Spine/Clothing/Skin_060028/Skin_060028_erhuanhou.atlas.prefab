@@ -1,0 +1,14 @@
+Skin_060028_erhuanhou.png
+size:256,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+erhuanhou1
+bounds:2,2,39,43
+offsets:1,0,41,44
+erhuanhou2
+bounds:106,47,15,86
+rotate:90
+erhuanhou3
+bounds:2,47,15,102
+rotate:90

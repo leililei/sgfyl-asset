@@ -1,0 +1,11 @@
+Skin_100018_toushizhong.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+toushihou1
+bounds:2,2,61,64
+offsets:8,6,70,78
+toushihou2
+bounds:2,68,42,125
+rotate:90

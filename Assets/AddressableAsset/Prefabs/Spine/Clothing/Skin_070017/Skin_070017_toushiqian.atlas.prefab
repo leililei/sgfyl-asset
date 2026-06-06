@@ -1,0 +1,15 @@
+Skin_070017_toushiqian.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+fashi-qian1
+bounds:93,36,77,71
+offsets:1,1,79,72
+fashi-qian2
+bounds:2,2,31,53
+offsets:1,0,33,54
+rotate:90
+fashi-qian3
+bounds:2,35,89,72
+offsets:0,0,90,73

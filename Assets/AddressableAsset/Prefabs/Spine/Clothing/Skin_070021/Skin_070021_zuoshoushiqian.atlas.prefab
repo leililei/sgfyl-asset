@@ -1,0 +1,14 @@
+Skin_070021_zuoshoushiqian.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+zssqian1
+bounds:135,89,24,168
+rotate:90
+zssqian2
+bounds:135,6,23,81
+offsets:2,0,25,81
+zssqian3
+bounds:2,2,111,131
+rotate:90

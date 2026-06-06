@@ -1,0 +1,19 @@
+Skin_050001_zuoyixiuhou.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+bai yixiu di000
+bounds:611,258,248,448
+rotate:90
+guashi 6
+bounds:1061,320,186,412
+rotate:90
+hua0 3
+bounds:611,157,92,99
+offsets:1,0,93,99
+touming di0
+bounds:2,2,146,82
+yiixu di0
+bounds:2,86,420,607
+rotate:90

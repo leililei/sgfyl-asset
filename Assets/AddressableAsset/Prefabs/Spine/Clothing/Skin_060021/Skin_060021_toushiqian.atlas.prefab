@@ -1,0 +1,13 @@
+Skin_060021_toushiqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+fashi-qian1
+bounds:261,129,117,217
+rotate:90
+fashi-qian2
+bounds:2,2,89,215
+rotate:90
+fashi-qian3
+bounds:2,93,257,153

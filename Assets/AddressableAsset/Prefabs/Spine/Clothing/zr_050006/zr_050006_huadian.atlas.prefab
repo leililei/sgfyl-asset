@@ -1,0 +1,9 @@
+zr_050006_huadian.png
+size:64,32
+filter:Linear,Linear
+pma:true
+scale:0.5
+huadian
+bounds:2,2,22,29
+offsets:0,1,23,30
+rotate:90

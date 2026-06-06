@@ -1,0 +1,17 @@
+Skin_050023_erhuanhou.png
+size:128,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+erhuan-hou1
+bounds:2,2,38,42
+offsets:1,0,40,44
+erhuan-hou2
+bounds:42,21,10,40
+rotate:90
+erhuan-hou3
+bounds:42,9,10,40
+rotate:90
+erhuan-hou4
+bounds:42,33,11,47
+rotate:90

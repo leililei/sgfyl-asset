@@ -1,0 +1,16 @@
+Skin_100012_erhuanqian.png
+size:128,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoerhuan1
+bounds:93,34,14,21
+zuoerhuan2
+bounds:82,23,9,32
+zuoerhuan3
+bounds:55,8,13,47
+zuoerhuan4
+bounds:70,23,10,32
+zuoerhuan5
+bounds:2,2,51,53
+offsets:0,0,52,54

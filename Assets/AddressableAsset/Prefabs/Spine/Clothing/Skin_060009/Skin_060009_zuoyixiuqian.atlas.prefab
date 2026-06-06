@@ -1,0 +1,25 @@
+Skin_060009_zuoyixiuqian.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+guahsi 02
+bounds:1486,811,41,188
+guashi 01
+bounds:1310,544,38,210
+guashi 03
+bounds:876,226,41,116
+jianjia01
+bounds:876,344,150,162
+offsets:0,22,150,184
+piaodai shang
+bounds:1310,756,174,243
+piaodai xia
+bounds:2,2,90,167
+rotate:90
+yixiu 1
+bounds:2,508,491,1306
+rotate:90
+yixiu 2
+bounds:2,94,412,872
+rotate:90

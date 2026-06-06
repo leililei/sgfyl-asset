@@ -1,0 +1,16 @@
+Skin_030004_toushizhong.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+fazan
+bounds:333,56,166,47
+lianhua
+bounds:333,2,85,52
+offsets:0,0,85,55
+ytoushi
+bounds:2,2,101,170
+rotate:90
+ztoushi
+bounds:174,10,93,157
+rotate:90

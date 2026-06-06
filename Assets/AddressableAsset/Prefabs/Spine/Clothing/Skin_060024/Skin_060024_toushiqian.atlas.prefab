@@ -1,0 +1,15 @@
+Skin_060024_toushiqian.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+fashiqian
+bounds:66,27,55,77
+toushi_qian1
+bounds:2,106,167,126
+toushi_qian2
+bounds:2,2,62,102
+offsets:4,0,67,103
+toushitouying
+bounds:171,141,91,72
+rotate:90

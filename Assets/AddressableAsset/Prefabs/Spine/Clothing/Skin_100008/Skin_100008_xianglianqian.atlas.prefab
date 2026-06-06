@@ -1,0 +1,16 @@
+Skin_100008_xianglianqian.png
+size:512,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+xianglian1
+bounds:169,3,106,57
+xianglian2
+bounds:2,2,58,165
+rotate:90
+xianglian3
+bounds:343,28,32,70
+rotate:90
+xianglian4
+bounds:277,13,47,64
+rotate:90

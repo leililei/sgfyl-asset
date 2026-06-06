@@ -1,0 +1,10 @@
+Skin_050014_zuoxieziqian.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoxiezi-shipin
+bounds:220,51,76,51
+zuoxiezi-xiezi
+bounds:2,2,100,216
+rotate:90

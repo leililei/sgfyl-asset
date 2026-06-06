@@ -1,0 +1,11 @@
+Skin_100001_zuoshoushiqian.png
+size:512,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+shoushi_shang
+bounds:386,2,58,60
+rotate:90
+shoushi_xia
+bounds:2,19,41,382
+rotate:90

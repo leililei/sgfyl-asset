@@ -1,0 +1,15 @@
+Skin_070022_toufaqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+tfqian1
+bounds:247,128,163,123
+tfqian2
+bounds:2,2,84,167
+rotate:90
+tfqian3333
+bounds:2,88,243,163
+tfqian4
+bounds:247,88,38,57
+rotate:90

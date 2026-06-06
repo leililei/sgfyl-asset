@@ -1,0 +1,17 @@
+Skin_070001_youyixiuqian.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+youxiuzi-qian1
+bounds:363,78,66,96
+offsets:0,1,66,97
+youxiuzi-qian2
+bounds:708,302,152,298
+rotate:90
+youxiuzi-qian3
+bounds:2,176,278,704
+rotate:90
+youxiuzi-qian4
+bounds:2,2,172,359
+rotate:90

@@ -1,0 +1,11 @@
+Skin_080006_zuoshoushiqian.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+shouchuo_shang
+bounds:368,15,71,68
+shouzhuo_xia_y
+bounds:2,2,81,364
+offsets:0,1,81,365
+rotate:90

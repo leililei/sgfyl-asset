@@ -1,0 +1,14 @@
+zr_060031_yanxian.png
+size:256,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+zr_biyan_yanxian
+bounds:2,2,138,46
+offsets:7,7,148,62
+zr_yanxian_l
+bounds:142,10,61,38
+offsets:2,3,63,43
+zr_yanxian_r
+bounds:205,11,49,37
+offsets:2,2,55,41

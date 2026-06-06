@@ -1,0 +1,11 @@
+Skin_070018_toufazhong.png
+size:256,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+toufa-zhong1
+bounds:168,2,84,414
+offsets:16,0,100,414
+toufa-zhong2
+bounds:2,52,164,364
+offsets:12,0,185,364

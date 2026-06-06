@@ -1,0 +1,16 @@
+80203.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.2
+1
+bounds:2,37,48,174
+rotate:90
+2
+bounds:2,87,167,295
+rotate:90
+3
+bounds:299,103,48,151
+4
+bounds:2,2,33,28
+rotate:90

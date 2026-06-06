@@ -1,0 +1,16 @@
+Skin_100006_youshouchiqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+ysc1
+bounds:144,63,111,95
+ysc2
+bounds:2,2,140,156
+ysc3
+bounds:2,160,74,301
+offsets:0,1,74,302
+rotate:90
+ysc4
+bounds:305,138,96,108
+rotate:90

@@ -1,0 +1,11 @@
+zr_050011_meixing.png
+size:64,32
+filter:Linear,Linear
+pma:true
+scale:0.5
+zr_meixing_l
+bounds:2,14,58,14
+offsets:13,13,76,39
+zr_meixing_r
+bounds:2,2,43,10
+offsets:5,8,55,26

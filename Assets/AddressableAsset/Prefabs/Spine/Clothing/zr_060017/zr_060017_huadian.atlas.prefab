@@ -1,0 +1,14 @@
+zr_060017_huadian.png
+size:64,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+huadian
+bounds:41,31,19,21
+offsets:0,0,20,21
+rotate:90
+huadian1
+bounds:41,18,16,11
+huadian2
+bounds:2,2,37,48
+offsets:7,0,47,48

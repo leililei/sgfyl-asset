@@ -1,0 +1,15 @@
+Skin_070022_xianglianqian.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+xianglianqian1
+bounds:2,27,135,89
+xianglianqian2
+bounds:54,7,18,35
+rotate:90
+xianglianqian3
+bounds:2,2,23,50
+rotate:90
+xianglianqian4
+bounds:139,77,18,39

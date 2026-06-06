@@ -1,0 +1,17 @@
+Skin_070014_toushiqian.png
+size:256,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+toushi_hou1
+bounds:2,2,118,140
+toushi_hou2
+bounds:122,11,114,114
+toushi_qian1
+bounds:172,281,56,153
+toushi_qian2
+bounds:172,127,57,152
+toushi_zhong
+bounds:2,144,290,168
+offsets:0,1,290,170
+rotate:90

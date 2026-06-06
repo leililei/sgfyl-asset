@@ -1,0 +1,14 @@
+Skin_010003_youxieziqian.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+youxiezi_hou
+bounds:2,2,205,109
+offsets:1,1,216,113
+youxiezi_qianjinshu
+bounds:209,40,188,71
+offsets:1,0,191,71
+youxiezi_qianjinshuyingying
+bounds:399,42,69,74
+rotate:90

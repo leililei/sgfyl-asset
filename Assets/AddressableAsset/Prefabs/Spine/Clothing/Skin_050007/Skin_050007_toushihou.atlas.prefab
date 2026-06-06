@@ -1,0 +1,10 @@
+Skin_050007_toushihou.png
+size:64,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+fashi-zhong1
+bounds:2,2,42,144
+offsets:0,1,42,145
+fashi-zhong2
+bounds:2,148,37,163

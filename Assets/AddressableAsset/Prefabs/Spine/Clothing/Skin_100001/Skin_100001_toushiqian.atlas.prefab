@@ -1,0 +1,16 @@
+Skin_100001_toushiqian.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+diaozhui_you
+bounds:2,43,37,134
+diaozhui_zuo
+bounds:2,43,37,134
+liuzu_you
+bounds:476,255,34,252
+liuzu_zuo
+bounds:476,2,34,251
+offsets:0,1,34,252
+toushi
+bounds:2,179,472,328

@@ -1,0 +1,16 @@
+80301.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.2
+qe_0
+bounds:203,111,47,12
+qe_1
+bounds:115,53,86,70
+qe_2
+bounds:2,6,111,117
+qe_3
+bounds:204,26,42,83
+qe_4
+bounds:115,2,49,87
+rotate:90

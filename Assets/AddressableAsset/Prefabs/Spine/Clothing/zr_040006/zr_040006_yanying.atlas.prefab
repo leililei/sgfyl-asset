@@ -1,0 +1,13 @@
+zr_040006_yanying.png
+size:512,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+zr_biyan
+bounds:2,2,129,48
+offsets:12,11,148,62
+zr_yanying_l
+bounds:133,8,81,42
+zr_yanying_r
+bounds:216,12,62,38
+offsets:0,0,63,38

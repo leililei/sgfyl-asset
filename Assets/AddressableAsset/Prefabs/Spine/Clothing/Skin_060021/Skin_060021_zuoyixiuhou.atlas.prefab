@@ -1,0 +1,14 @@
+Skin_060021_zuoyixiuhou.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+piaodai-hou1
+bounds:2,270,1028,1104
+offsets:0,0,1037,1104
+zuoxiuzi-hou1
+bounds:2,2,119,266
+offsets:1,0,121,266
+zuoxiuzi-hou2
+bounds:1032,1255,184,119
+offsets:0,0,184,128

@@ -1,0 +1,14 @@
+Skin_000000_zuotui.png
+size:2048,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuojiao
+bounds:1133,90,100,238
+rotate:90
+zuotui1
+bounds:2,2,188,570
+rotate:90
+zuotui2
+bounds:574,75,115,557
+rotate:90

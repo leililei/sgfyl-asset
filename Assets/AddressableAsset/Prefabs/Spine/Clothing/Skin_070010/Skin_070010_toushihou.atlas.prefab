@@ -1,0 +1,10 @@
+Skin_070010_toushihou.png
+size:64,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+tshou1
+bounds:2,177,32,246
+tshou2
+bounds:2,2,44,173
+offsets:12,0,56,173

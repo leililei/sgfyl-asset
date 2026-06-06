@@ -1,0 +1,14 @@
+Skin_000000_zhuangrong.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+biyan
+bounds:197,182,141,64
+zhuangrong
+bounds:2,2,193,244
+offsets:3,0,196,244
+zhuangrong11
+bounds:197,28,152,53
+offsets:0,2,153,56
+rotate:90

@@ -1,0 +1,16 @@
+Skin_060009_baijianqian.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+guashi
+bounds:445,132,56,163
+offsets:10,0,66,173
+shengzi
+bounds:634,451,60,59
+yizi
+bounds:2,2,441,508
+offsets:0,6,441,514
+yuxi
+bounds:445,297,187,213
+offsets:0,0,187,218

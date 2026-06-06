@@ -1,0 +1,31 @@
+Skin_110002_youshouchiqian.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+fenghuanglizi
+bounds:2,119,567,391
+guang
+bounds:1064,2,290,380
+rotate:90
+guang 1
+bounds:1072,294,408,216
+offsets:0,31,408,247
+guang 2
+bounds:1865,387,140,123
+guang 3
+bounds:1482,262,381,248
+offsets:36,2,419,283
+guang 4
+bounds:571,159,491,163
+offsets:3,79,497,286
+guang 5
+bounds:571,324,499,186
+offsets:0,46,499,232
+guang 6
+bounds:1446,6,254,353
+offsets:16,0,270,353
+rotate:90
+guang 7
+bounds:2,6,111,211
+rotate:90

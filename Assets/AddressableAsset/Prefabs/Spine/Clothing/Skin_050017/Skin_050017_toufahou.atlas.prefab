@@ -1,0 +1,15 @@
+Skin_050017_toufahou.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+gf_92
+bounds:2,2,166,154
+offsets:1,0,175,156
+gf_93
+bounds:2,158,321,693
+rotate:90
+gf_95
+bounds:697,220,259,696
+offsets:19,24,328,720
+rotate:90

@@ -1,0 +1,13 @@
+Skin_030004_zuoyixiuhou.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+youbaixiu
+bounds:2,2,106,252
+rotate:90
+youjianhou
+bounds:261,118,147,126
+youzixiuhou
+bounds:2,110,134,257
+rotate:90

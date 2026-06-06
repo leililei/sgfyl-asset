@@ -1,0 +1,17 @@
+Skin_070005_toufaqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+toufa-qian1
+bounds:253,2,122,90
+toufa-qian2
+bounds:253,157,84,247
+rotate:90
+toufa-qian3
+bounds:253,94,61,234
+offsets:0,8,61,242
+rotate:90
+toufa-qian4
+bounds:2,26,249,215
+offsets:0,0,249,216

@@ -1,0 +1,15 @@
+Skin_070017_toufahou.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+toufa-hou1
+bounds:2,72,424,797
+rotate:90
+toufa-hou2
+bounds:801,268,228,765
+offsets:0,6,228,771
+rotate:90
+toufa-zhong2
+bounds:2,2,36,68
+offsets:1,0,37,68

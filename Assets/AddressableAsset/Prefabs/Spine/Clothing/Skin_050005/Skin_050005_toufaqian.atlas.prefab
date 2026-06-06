@@ -1,0 +1,19 @@
+Skin_050005_toufaqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+liuhai1
+bounds:398,91,146,112
+rotate:90
+liuhai2
+bounds:2,2,69,197
+rotate:90
+toufa  zhong
+bounds:2,73,206,164
+offsets:0,0,211,164
+toufayinying1
+bounds:210,112,186,125
+toufazhong1
+bounds:210,79,31,56
+rotate:90

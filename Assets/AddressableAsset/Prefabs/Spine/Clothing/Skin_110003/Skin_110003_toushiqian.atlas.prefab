@@ -1,0 +1,12 @@
+Skin_110003_toushiqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+tsqian1
+bounds:2,30,282,215
+offsets:15,22,318,241
+tsqian2
+bounds:2,2,26,97
+offsets:0,0,30,97
+rotate:90

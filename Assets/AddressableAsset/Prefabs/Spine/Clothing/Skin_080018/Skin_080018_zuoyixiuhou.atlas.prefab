@@ -1,0 +1,16 @@
+Skin_080018_zuoyixiuhou.png
+size:1024,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoxiuzi-hou1
+bounds:236,2,119,191
+offsets:1,5,127,200
+rotate:90
+zuoxiuzi-hou2
+bounds:2,9,112,232
+offsets:0,0,117,232
+rotate:90
+zuoxiuzi-hou3
+bounds:429,2,90,119
+offsets:0,0,90,122

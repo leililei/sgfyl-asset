@@ -1,0 +1,15 @@
+Skin_040009_zuoyixiuhou.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+zuoyixiuhou1
+bounds:541,120,130,195
+rotate:90
+zuoyixiuhou2
+bounds:2,102,148,537
+offsets:0,0,203,537
+rotate:90
+zuoyixiuhou3
+bounds:2,2,98,388
+rotate:90

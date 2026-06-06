@@ -1,0 +1,15 @@
+Skin_110017_xianglianqian.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+xianglian1
+bounds:156,2,106,88
+offsets:0,0,106,93
+rotate:90
+xianglian2
+bounds:2,5,29,41
+offsets:4,0,36,41
+xianglian3
+bounds:2,48,152,60
+offsets:0,29,159,106

@@ -1,0 +1,11 @@
+Skin_060027_toushihou.png
+size:256,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+toushiyou_3
+bounds:2,2,96,127
+rotate:90
+toushzuo_3
+bounds:131,19,79,119
+rotate:90

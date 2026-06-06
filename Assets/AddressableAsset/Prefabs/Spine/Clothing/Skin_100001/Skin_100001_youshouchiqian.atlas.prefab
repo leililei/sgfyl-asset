@@ -1,0 +1,13 @@
+Skin_100001_youshouchiqian.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+shouchi_shang
+bounds:2,83,539,152
+shouchi_xia
+bounds:2,2,79,329
+rotate:90
+shouchi_zhong
+bounds:543,28,207,332
+rotate:90

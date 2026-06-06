@@ -1,0 +1,16 @@
+Skin_090017_zuoyixiuqian.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+piaodai-qian
+bounds:2,2,184,286
+rotate:90
+zuoxiuzi-qian1
+bounds:2,285,212,803
+offsets:17,0,230,805
+rotate:90
+zuoxiuzi-qian2
+bounds:2,188,95,380
+offsets:1,6,96,386
+rotate:90

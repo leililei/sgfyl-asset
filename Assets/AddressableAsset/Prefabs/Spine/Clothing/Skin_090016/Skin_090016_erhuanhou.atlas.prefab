@@ -1,0 +1,11 @@
+Skin_090016_erhuanhou.png
+size:256,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+yerhuan1
+bounds:2,2,26,75
+rotate:90
+yerhuan2
+bounds:2,30,29,146
+rotate:90

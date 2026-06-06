@@ -1,0 +1,10 @@
+Skin_070003_toushihou.png
+size:256,64
+filter:Linear,Linear
+pma:true
+scale:0.5
+fashi-hou1
+bounds:134,9,54,44
+fashi-hou2
+bounds:2,2,51,130
+rotate:90

@@ -1,0 +1,17 @@
+Skin_020003_yifuhou.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+yifu-hou1
+bounds:438,134,84,176
+offsets:2,3,86,181
+rotate:90
+yifu-hou2
+bounds:2,2,83,414
+offsets:0,0,83,422
+rotate:90
+yifu-hou3
+bounds:2,87,131,434
+offsets:0,4,131,445
+rotate:90

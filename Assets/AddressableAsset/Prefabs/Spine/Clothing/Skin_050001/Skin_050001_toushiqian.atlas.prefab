@@ -1,0 +1,20 @@
+Skin_050001_toushiqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+touguang
+bounds:2,61,267,193
+offsets:0,0,267,194
+touguang0
+bounds:271,100,117,154
+offsets:0,6,117,161
+you 1
+bounds:390,126,128,85
+rotate:90
+you 2
+bounds:49,9,80,50
+zuo 1
+bounds:271,10,112,88
+zuo 2
+bounds:2,2,45,57

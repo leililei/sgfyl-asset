@@ -1,0 +1,16 @@
+Skin_070019_toushiqian.png
+size:512,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+toushiyou2
+bounds:197,98,100,100
+toushizuo1
+bounds:2,14,193,184
+toushizuo2
+bounds:197,45,8,51
+toushizuo3
+bounds:299,174,7,24
+toushizuo4
+bounds:2,2,10,72
+rotate:90

@@ -1,0 +1,14 @@
+Skin_010001_toushiqian.png
+size:128,128
+filter:Linear,Linear
+pma:true
+scale:0.5
+fashiqian_1
+bounds:2,11,81,112
+offsets:0,1,82,113
+fashiqian_2
+bounds:2,2,7,38
+offsets:1,1,9,39
+rotate:90
+fashiqian_3
+bounds:85,2,26,121

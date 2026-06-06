@@ -1,0 +1,13 @@
+Skin_050020_toufazhong.png
+size:2048,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+tofa-ho1
+bounds:555,30,219,494
+rotate:90
+tofa-qian1
+bounds:2,2,247,551
+rotate:90
+toufa-ho2
+bounds:1051,132,33,117

@@ -1,0 +1,17 @@
+Skin_050006_youyixiuhou.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+scale:0.5
+youyixiuhou1
+bounds:1234,631,114,136
+offsets:4,1,119,137
+youyixiuhou2
+bounds:2,35,130,168
+offsets:0,0,163,197
+youyixiuhou3
+bounds:2,2,32,31
+youyixiuhou4
+bounds:2,205,562,1230
+offsets:137,0,704,1230
+rotate:90

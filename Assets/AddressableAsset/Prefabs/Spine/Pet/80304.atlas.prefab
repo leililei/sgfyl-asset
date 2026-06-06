@@ -1,0 +1,17 @@
+80304.png
+size:512,128
+filter:Linear,Linear
+pma:true
+scale:0.2
+ss_0
+bounds:2,2,56,18
+offsets:0,0,56,19
+ss_1
+bounds:132,29,110,93
+ss_2
+bounds:244,31,42,46
+rotate:90
+ss_3
+bounds:244,75,48,47
+ss_4
+bounds:2,22,128,100

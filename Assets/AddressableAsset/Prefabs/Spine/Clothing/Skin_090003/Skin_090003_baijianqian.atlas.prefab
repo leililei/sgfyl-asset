@@ -1,0 +1,11 @@
+Skin_090003_baijianqian.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+qianbaijian1
+bounds:2,2,318,98
+offsets:0,0,318,100
+qianbaijian2
+bounds:2,102,357,633
+rotate:90
